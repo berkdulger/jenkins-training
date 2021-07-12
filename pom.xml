@@ -17,12 +17,10 @@
 
   <properties>
 
-
-    <sonar.projectKey>jenkins-training</sonar.projectKey>
-    <sonar.organization>berktoprakci</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>0c7e73f43ebd3477c554ee0b0f644bc671ffe7fc</sonar.login>
-
+      <sonar.projectKey>jenkinsTraining</sonar.projectKey>
+      <sonar.organization>berkdulger-github</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+      <sonar.login>6a87837cdd7501a5f51b8e8a30c7168afd1cc8f0</sonar.login>
 
     <!-- Generic properties -->
     <java.version>1.8</java.version>
